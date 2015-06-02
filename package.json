@@ -1,0 +1,7 @@
+{
+  "name": "jssh-snippet-nginx",
+  "version": "0.0.1",
+  "description": "Install Nginx server on Ubuntu using APT and Node.js.",
+  "main": "index.js",
+  "dependencies": {}
+}
