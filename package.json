@@ -1,7 +1,19 @@
 {
   "name": "jssh-snippet-nginx",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Install Nginx server on Ubuntu using APT and Node.js.",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/jssh-snippet-nginx.git"
+  },
+  "keywords": [
+    "nginx",
+    "install",
+    "ubuntu",
+    "jssh",
+    "shell",
+    "snippet"
+  ],
   "dependencies": {}
 }
